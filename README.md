@@ -2,7 +2,7 @@
 # **********  You showed to be a hi skilled proffessional. ********
 # ************           NOW, SHOW ME THE CODE!         *********************
 # ****************************************************************
-# ****************Now Read carefully the text below ************
+# ****************    Read carefully the text below ************
 
 # 
 
